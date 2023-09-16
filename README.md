@@ -1,6 +1,6 @@
 # Simple Python Chat App
 
-A basic command-line chat application written in Python using sockets for communication between a server and multiple clients.
+A basic command-line chat application written in C++ and Python using sockets for communication between a server and multiple clients.
 
 ## Table of Contents
 
